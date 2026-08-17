@@ -47,7 +47,7 @@ print(round(num,2)) #23.89
 #F-string - convert all the data types into the string without the string function
 score = 0;
 height = 1.8;
-print(f"Your score is {score} and your height is {height}") 
+print(f"Your score is {score} and your height is {height}")
 
 
 
